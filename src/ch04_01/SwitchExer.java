@@ -3,6 +3,7 @@ package ch04_01;
 import java.util.Scanner;
 
 // 1월부터 12월까지 임의의 월을 입력받아 해당 월의 일수(30일, 31일, 28일)를 출력하는 프로그램(switch~case문)
+// 주석문 업데이트
 public class SwitchExer {
 
 	public static void main(String[] args) {
