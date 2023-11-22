@@ -28,6 +28,27 @@ public class ForExer04 {
 			}
 			System.out.println();// 다음 줄로 내려주는 역할만 함
 		}
+		
+		
+		String str=null;
+		
+		System.out.println(str);
+		
+		int[] arr = null;
+		
+		//System.out.println(arr[0]);
+		
+		String a = "홍길동";
+		String b = "홍길동";
+		String c = new String("홍길동");
+		
+		if (a.equals(c)) {
+			System.out.println("참");
+		} else {
+			System.out.println("거짓");
+		}
+		
+		
 	}
 
 }
