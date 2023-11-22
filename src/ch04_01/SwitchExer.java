@@ -49,7 +49,6 @@ public class SwitchExer {
 		case 11:
 			System.out.println("30일");
 			break;	
-
 		default:
 			System.out.println("1부터 12까지의 수 중 1개를 넣어주세요!");
 			break;
